@@ -14,6 +14,7 @@ jupyter==1.0.0
 jupyter-client==5.0.0
 jupyter-console==5.1.0
 jupyter-core==4.3.0
+jupyternotify==0.1.15
 MarkupSafe==1.0
 mistune==0.7.4
 nbconvert==5.1.1
@@ -34,7 +35,7 @@ pyzmq==16.0.2
 qtconsole==4.3.0
 simplegeneric==0.8.1
 six==1.10.0
-tensorflow==1.0.0
+tensorflow-gpu==1.1
 terminado==0.6
 testpath==0.3
 tornado==4.4.3
